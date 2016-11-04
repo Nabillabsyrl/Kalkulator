@@ -6,7 +6,7 @@
 
 /**
  *
- * @author riskiawp
+ * @author nabillabsyrl
  */
 public class Latihan3 extends javax.swing.JFrame {
 
@@ -70,7 +70,7 @@ public class Latihan3 extends javax.swing.JFrame {
             }
         });
         getContentPane().add(Kurang);
-        Kurang.setBounds(310, 160, 80, 30);
+        Kurang.setBounds(340, 160, 50, 30);
 
         Kali.setText("X");
         Kali.addActionListener(new java.awt.event.ActionListener() {
@@ -79,7 +79,7 @@ public class Latihan3 extends javax.swing.JFrame {
             }
         });
         getContentPane().add(Kali);
-        Kali.setBounds(10, 160, 80, 30);
+        Kali.setBounds(40, 160, 50, 30);
 
         Bagi.setText(":");
         Bagi.addActionListener(new java.awt.event.ActionListener() {
@@ -88,7 +88,7 @@ public class Latihan3 extends javax.swing.JFrame {
             }
         });
         getContentPane().add(Bagi);
-        Bagi.setBounds(110, 160, 80, 30);
+        Bagi.setBounds(140, 160, 50, 30);
 
         Tambah.setText("+");
         Tambah.addActionListener(new java.awt.event.ActionListener() {
@@ -97,7 +97,7 @@ public class Latihan3 extends javax.swing.JFrame {
             }
         });
         getContentPane().add(Tambah);
-        Tambah.setBounds(210, 160, 80, 30);
+        Tambah.setBounds(240, 160, 50, 30);
         getContentPane().add(Bil1);
         Bil1.setBounds(200, 60, 80, 30);
 
@@ -105,7 +105,7 @@ public class Latihan3 extends javax.swing.JFrame {
         getContentPane().add(jLabel4);
         jLabel4.setBounds(80, 110, 60, 14);
 
-        jPanel1.setBackground(new java.awt.Color(255, 102, 102));
+        jPanel1.setBackground(new java.awt.Color(255, 153, 153));
         getContentPane().add(jPanel1);
         jPanel1.setBounds(0, 0, 400, 300);
 

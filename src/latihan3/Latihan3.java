@@ -7,7 +7,7 @@ package latihan3;
 
 /**
  *
- * @author riskiawp
+ * @author nabillabsyrl
  */
 public class Latihan3 {
 
